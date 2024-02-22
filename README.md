@@ -1,6 +1,6 @@
-# Data-competition-Team4
+# Data competition project Team
 
-It's about a team project offered by CEC Club & BinatnaData as a competition to gain more skills and add new competencies to our career in the Data field.
-We worked with Airplane Crashes and Fatalities Since the 1908 data file.
-As a team, we tried our best to clean it and extract the new data as a Datacleaned file.
-We converted all the data to graphs in our dashboard analysis by the PowerBI app.
+Our team participated in a project offered by CEC Club & BinatnaData. 
+It was a competition aimed at enhancing our skills and competencies in the field of Data.
+We chose to work on the Airplane Crashes and Fatalities Since the 1908 data file. Together, we cleaned and extracted new data from it.
+Then, we converted all the data into graphs using the PowerBI app, which we integrated into our dashboard analysis.
